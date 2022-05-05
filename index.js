@@ -64,7 +64,7 @@ http
     //  });
   })
   .listen(3000);
-console.log('Server running at http://127.0.0.1:3000/');
+console.log('Server running at http://0.0.0.0:3000/');
 
 // const hostname = '127.0.0.1';
 // const port = 3000;
